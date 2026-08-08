@@ -1,0 +1,5 @@
+Example:
+Vehicle parked successfully: Vehicle No: CG04AB1234 | Type: Car
+Vehicle parked successfully: Vehicle No: PB10XY5678 | Type: Bike
+Vehicle found: Vehicle No: CG04AB1234 | Type: Car
+Vehicle removed: CG04AB1234

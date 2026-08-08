@@ -1,0 +1,5 @@
+Example:
+Token issued: Token: 1 | Name: Rahul | Service: Account
+Token issued: Token: 2 | Name: Priya | Service: Cash Deposit
+Serving customer: Token: 1 | Name: Rahul | Service: Account
+Next customer: Token: 2 | Name: Priya | Service: Cash Deposit

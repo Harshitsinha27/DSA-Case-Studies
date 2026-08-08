@@ -1,0 +1,5 @@
+Example:
+ADD | Item: Laptop | Quantity: 10
+ADD | Item: Keyboard | Quantity: 20
+Latest operation: ADD | Item: Keyboard | Quantity: 20
+Rolled back: ADD | Item: Keyboard | Quantity: 20
