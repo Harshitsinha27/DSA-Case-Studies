@@ -1,9 +1,5 @@
 # DSA Case Studies
 
-**Student:** Harshit Sinha  
-**Course:** Data Structures and Algorithms  
-**Language:** Java
-
 ## Case Studies
 
 ### Case Study 24: Warehouse Inventory Rollback (Stack)
